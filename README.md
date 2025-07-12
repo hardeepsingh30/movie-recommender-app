@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Movie Recommender App Banner" width="100%">
+</p>
+
 # 🎬 Movie Recommender App
 
 A **Streamlit-based movie recommendation system** that suggests similar movies using **cosine similarity** and fetches movie posters using the **TMDB API**.
