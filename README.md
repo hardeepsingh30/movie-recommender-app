@@ -8,7 +8,7 @@ A **Streamlit-based movie recommendation system** that suggests similar movies u
 
 ## 🚀 Demo
 
-[Click here to try the live app]([https://hardeepsingh30-movie-recommender-app.streamlit.app](https://movie-recommender-app-25wvhjje4jbultxbicqei5.streamlit.app/))  
+[Click here to try the live app](https://movie-recommender-app-25wvhjje4jbultxbicqei5.streamlit.app/) 
 *(Replace with your actual Streamlit Cloud link)*
 
 ## 📌 Features
