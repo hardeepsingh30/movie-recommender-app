@@ -7,7 +7,7 @@ movie_titles = joblib.load('movie_titles.pkl')
 similarity = joblib.load('similarity.pkl')
 
 # Banner image (if hosted or uploaded locally)
-st.image("banner.png", use_column_width=True)
+st.image("banner.png", use_container_width=True)
 
 # Title & Intro
 st.markdown("# 🎬 Movie Recommender System")
