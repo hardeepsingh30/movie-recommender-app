@@ -25,7 +25,7 @@ st.sidebar.info(
 )
 
 # TMDB API
-TMDB_API_KEY = st.secrets["TMDB_API_KEY"]
+TMDB_API_KEY = "YOUR_REAL_API_KEY"
 
 # Fetch poster using TMDB Search API (by title)
 def fetch_poster(movie_title):
